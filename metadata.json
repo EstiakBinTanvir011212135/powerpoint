@@ -1,0 +1,6 @@
+{
+  "name": "AI PowerPoint Generator",
+  "description": "Create, edit, design and export premium animated presentation slides with AI assistant, image generation, real-time collaboration, and drag-and-drop customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
